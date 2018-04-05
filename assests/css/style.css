@@ -116,17 +116,17 @@ header a:hover{
   padding:10px;
 }
 #boxes .box img{
-  width:140px;
+  width:160px;
 }
 
 /* Sidebar */
 #sidebar{
   float:right;
   width:30%;
-  margin-top:10px;
+  margin-top:30px
 }
 
-#sidebar .quote input, #sidebar .quote textarea{
+aside#sidebar .quote input, aside#sidebar .quote textarea{
   width:90%;
   padding:5px;
 }
@@ -147,6 +147,20 @@ header a:hover{
   background:#e6e6e6;
 }
 
+/*Mp3*/
+#Mp3{
+  padding: 15px;
+  color: #000000;
+  background-color: #ffffff;
+}
+#Mp3 h1{
+  float:left;
+}
+ #Mp3 audio{
+   float:right;
+   margin-top:30px;
+ }
+ 
 footer{
   padding:20px;
   margin-top:20px;
