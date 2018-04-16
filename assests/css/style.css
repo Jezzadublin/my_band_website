@@ -72,7 +72,7 @@ header a:hover{
   min-height:400px;
   background: url('../images/logo-guitar.jpg') no-repeat 0 -350px ;
   text-align:center;
-  color:#ffffff;
+  color:#32FF00;
 }
 
 #showcase h1{
@@ -102,7 +102,7 @@ header a:hover{
 
 #fanzine input[type="email"]{
   padding: 4px;
-  height: 25px;
+  height: 38px;
   width: 250px;
 }
 /* Boxes */
@@ -112,7 +112,7 @@ header a:hover{
 #boxes .box{
   float:left;
   text-align: center;
-  width:30%;
+  width:25%;
   padding:10px;
 }
 #boxes .box img{
@@ -202,7 +202,7 @@ footer{
   }
 }
   .social-links {
-    float:right;
+    float:center;
   	padding-bottom: 15px;
   }
   
